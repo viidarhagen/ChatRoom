@@ -177,9 +177,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\nc.css" />
     <Content Include="README.md" />
     <None Include="Properties\PublishProfiles\VismaDemoChat - Web Deploy.pubxml" />
     <Content Include="index.html" />
+    <None Include="Properties\PublishProfiles\VismaDemoChat - Web Deploy1.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
